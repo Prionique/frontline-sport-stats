@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "frontline-sport",
+  "private_key_id": "e3d04c1e280891ca0aa2b36f6def851a189f5bff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzLsSV4ojZQ7mq\ngSuSolfzo1B9RMS2EpXsUuXoUqPQF79iwcu3xy1XB+IvzaJtbE+8QNtUOLb3A43t\nN2SdRqNKJq+vzUnYd3tgxXAzltzfBkyptmV0NWxh9lRPOaWjXqmDPNDjzlm5Pe5I\nhb72yzQLdTW4LwVf6E3kNU+BoncaN9YNDJ6TIg1dNNN9TPOEFP1i/JeGDP9eShK/\nduAV0/wA0EMV8fyj5r5TRAYgWc2qJ4biWigBssqRKAmD/RUtsAMJIaRM2iuPZAIZ\n3l9+fsumg3tEKU+aX+nyFe4zq91eigyLk5tv1BbpGAg+/rGM57bFLKA0vG8Hm3O9\nBx0EzDBFAgMBAAECggEAIls3Sl3zS2VW9kBqMGV8Y7TOvBYxeY+6u2NxvcgKrN3A\nzpjGDOjd4rAaSHwvRrfb2ga9hzqQqnA+CFv0qMtgh9k/GoBMRnsyZu20g8/Lbd/x\nVyEn9s4/h9EJfV9aSSbfbdB9ZRCt13zucW1jnkJ8Ki5BLJ2ndCpAtR8brYmPOLFl\n6LWS3IBEJtnV91Ohs+V5wJFRh8uR5xz0nM2g+vDheYkJyyE/UQLMx6FHJRgjRLRq\nOmv+ifAKreWxrXJzmlkXM3NMkRtTmEByENompAh4mpf9w8ePdGS75BbOMuy/moqY\nQeUPIz8cGPuCu0NXm1af2er7JtX64Fo5qpMCAL/6AQKBgQDce80oWXhwLj0Bdj3R\nFJ+1aXJMJoCa03lQXsx704zlWsBVQ916qbTuEFdU/GoXzpQHWqOdjgU/NcjMoYys\n/RDhzP4DJ4NzuTfItxcbrgDin1rzyX+/8OQL1A/iVXTwlC6sO9efjBMszqJnZAjp\nchVGYXGl3n+h/1sB9G+GdK+bhQKBgQDQC9GpxBc0Uvycll30cazS1RetV4o9SoCp\nFHfAC6RDdaWZOxljVPjGZHTYc5txTsSy7t/gloDA0MAY18Lk2lnAIP4vQXRylDS7\nvjSX/VRL+b26yBdiWs06tq4xzpcIBcJIDuxTurfsV6qPzuXqCAiv2+kpKAzuehx3\nY9tqpRh9wQKBgQCfh6hCyLHfIWWcuCw0KuMABQLhXH5zCA5f+6ei9Meeb9J4HzmS\ndlZmZkZ6RISTIzJyO7/k0Qy01rqqbT13MUhUyNkF+UIgqmRVgzxiF72mO704ZZRc\nkfS/Jjoz/rc1F1LJ5ia210hMhFp3yqa0GoqQORNc+6eH1FbKDE3hkG47bQKBgGyP\nnkpuDoW5QCQdus1RfBNQKtjDM1mkRNr12T8XVBH3lAAPfMH+lwo/ZVGFkflgVvff\n+mbhYjI7O+I6xHJTFj5ReRIDn9YiTBojuKIPCSvUGBMdUkZ6h1k59k/7M4h2KNkd\nIGjYqBzl6hS8q/ChXJcXs+VMBuNySORr8RUHLW6BAoGBALcu05dddltKyTGNMwmu\nnVebWOmeseikXbGPbG6kNF4pCXWSXZ4LNXtSKFcTZBCCYC/Sm3EKkw5G4JMGa/yJ\nvGnzdiRzxdp7jR2pWRmbwWTQ2qeLMF4sgWC6ZYaxHjYh0prRxxv3X6G5TSoodY9O\nCt7LM09xyEuX+6rmnYW6Uvv5\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7up1a@frontline-sport.iam.gserviceaccount.com",
+  "client_id": "117685445369079822142",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7up1a%40frontline-sport.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
